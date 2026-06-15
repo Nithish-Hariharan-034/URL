@@ -101,7 +101,6 @@ URL-Enhancer/
 ├── artifacts/
 │   ├── api-server/           # Express backend
 │   ├── url-shortener/        # React frontend
-│   └── mockup-sandbox/
 │
 ├── lib/
 │   ├── api-client-react/     # Auto-generated frontend API hooks
