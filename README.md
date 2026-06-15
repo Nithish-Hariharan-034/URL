@@ -102,12 +102,6 @@ URL-Enhancer/
 │   ├── api-server/           # Express backend
 │   ├── url-shortener/        # React frontend
 │
-├── lib/
-│   ├── api-client-react/     # Auto-generated frontend API hooks
-│   ├── api-spec/             # OpenAPI specification
-│   ├── api-zod/              # Shared Zod schemas
-│   └── db/                   # Database schema and ORM
-│
 ├── scripts/
 ├── package.json
 ├── pnpm-workspace.yaml
