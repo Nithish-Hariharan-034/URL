@@ -5,6 +5,8 @@ A modern, production-style full-stack URL shortener platform built with a scalab
 
 This application allows users to create shortened URLs, track click analytics in real time, generate QR codes, manage links from a responsive dashboard, and visualize traffic trends through interactive charts.
 
+Explanation Link : https://youtu.be/jb1VL4uLqTQ
+
 ---
 
 # 🚀 Features
